@@ -48,7 +48,7 @@ create_server = function(map_data) {
         # Adding markers
         addAwesomeMarkers(lng = ~longitude,
                           lat = ~latitude,
-                          icon = icons,
+                          # icon = icons,
                           label = ~name,
                           group = "markers",
                           popup = ~paste("<b>", "Restaurant:", "</b>", name, "<br>",
@@ -60,32 +60,32 @@ create_server = function(map_data) {
       
     })
     
-    output$legend = renderUI({
-      legend_info = list("Preschool" = "Preschool",
-                         "Elementary School" = "Elementary School",
-                         "Middle School" = "Middle School",
-                         "High School" = "High School",
-                         "Homeschool" = "Homeschool")
-      
-      legendUI = lapply(names(legend_info), function(category) {
-        div(
-          div(
-            style = sprintf("background-color: %s; width: 10px; height: 10px; display: inline-block; margin-right: 5px;", 
-                              ifelse(category == "Preschool", "pink",
-                              ifelse(category == "Elementary School", "blue",
-                              ifelse(category == "Middle School", "green",
-                              ifelse(category == "High School", "red",
-                              ifelse(category == "Homeschool", "purple"))))))
-        ),
-        div(legend_info[[category]],
-            style = "display: inline-block; margin-bottom: 5px;"
-        ),
-        stye = "margin-right: 5px;"
-      )
-      })
-      
-      div(legendUI, style = "margin-top: 5px;")
-    })
+    # output$legend = renderUI({
+    #   legend_info = list("Preschool" = "Preschool",
+    #                      "Elementary School" = "Elementary School",
+    #                      "Middle School" = "Middle School",
+    #                      "High School" = "High School",
+    #                      "Homeschool" = "Homeschool")
+    #   
+    #   legendUI = lapply(names(legend_info), function(category) {
+    #     div(
+    #       div(
+    #         style = sprintf("background-color: %s; width: 10px; height: 10px; display: inline-block; margin-right: 5px;", 
+    #                           ifelse(category == "Preschool", "pink",
+    #                           ifelse(category == "Elementary School", "blue",
+    #                           ifelse(category == "Middle School", "green",
+    #                           ifelse(category == "High School", "red",
+    #                           ifelse(category == "Homeschool", "purple"))))))
+    #     ),
+    #     div(legend_info[[category]],
+    #         style = "display: inline-block; margin-bottom: 5px;"
+    #     ),
+    #     stye = "margin-right: 5px;"
+    #   )
+    #   })
+    #   
+    #   div(legendUI, style = "margin-top: 5px;")
+    # })
     
   }
   

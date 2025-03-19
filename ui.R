@@ -6,10 +6,10 @@ create_ui = function(map_data) {
   
   UI = fluidPage(
     
-    tags$head(
-      tags$link(rel = "stylesheet", type = "text/css", href = "good_book_styles.css")
-    ),
-    
+    # tags$head(
+    #   tags$link(rel = "stylesheet", type = "text/css", href = "restaurant_styles.css")
+    # ),
+    # 
     titlePanel("Restaurants"),
     
     sidebarLayout(
@@ -19,10 +19,10 @@ create_ui = function(map_data) {
         # State selection
         selectInput("state_filter",
                     "Select State:",
-                    choices = c("All", sort(unique(map_data$state))),
+                    choices = c("All", sort(unique(map_data$province))),
                     selected = "All"),
         
-        h4("School Types"),
+        h4("State"),
         uiOutput("legend")
       ),
       
