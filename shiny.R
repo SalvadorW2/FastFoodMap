@@ -6,13 +6,8 @@ library(shiny)
 
 ### Loading Source Files ###
 
-## Data
-# source("data.R")
-
-## UI
+source("data.R")
 source("ui.R")
-
-## Server
 source("server.R")
 
 
@@ -22,7 +17,7 @@ source("server.R")
 data = read.csv("FastFoodRestaurants.csv")
 
 # Data Processing
-# map_data = create_map_data(data)
+data = create_map_data(data)
 
 
 # Creating application components

@@ -26,10 +26,10 @@ create_server = function(map_data) {
     })
     
     # Configuring icons
-    # icons = awesomeIcons(icon = "whatever",
-    #                      iconColor = "black",
-    #                      library = "ion",
-    #                      markerColor = map_data$color)
+    icons = awesomeIcons(icon = "whatever",
+                         iconColor = "black",
+                         library = "ion",
+                         markerColor = map_data$color)
     
     # Rendering map
     output$map = renderLeaflet({
@@ -48,7 +48,7 @@ create_server = function(map_data) {
         # Adding markers
         addAwesomeMarkers(lng = ~longitude,
                           lat = ~latitude,
-                          # icon = icons,
+                          icon = icons,
                           label = ~name,
                           group = "markers",
                           popup = ~paste("<b>", "Restaurant:", "</b>", name, "<br>",
@@ -60,32 +60,53 @@ create_server = function(map_data) {
       
     })
     
-    # output$legend = renderUI({
-    #   legend_info = list("Preschool" = "Preschool",
-    #                      "Elementary School" = "Elementary School",
-    #                      "Middle School" = "Middle School",
-    #                      "High School" = "High School",
-    #                      "Homeschool" = "Homeschool")
-    #   
-    #   legendUI = lapply(names(legend_info), function(category) {
-    #     div(
-    #       div(
-    #         style = sprintf("background-color: %s; width: 10px; height: 10px; display: inline-block; margin-right: 5px;", 
-    #                           ifelse(category == "Preschool", "pink",
-    #                           ifelse(category == "Elementary School", "blue",
-    #                           ifelse(category == "Middle School", "green",
-    #                           ifelse(category == "High School", "red",
-    #                           ifelse(category == "Homeschool", "purple"))))))
-    #     ),
-    #     div(legend_info[[category]],
-    #         style = "display: inline-block; margin-bottom: 5px;"
-    #     ),
-    #     stye = "margin-right: 5px;"
-    #   )
-    #   })
-    #   
-    #   div(legendUI, style = "margin-top: 5px;")
-    # })
+    output$legend = renderUI({
+      legend_info = list("asian" = "Asian",
+                         "breakfast" = "Breakfast",
+                         "buffet" = "Buffet",
+                         "burger" = "Burger",
+                         "chicken" = "Chicken",
+                         "dessert" = "Dessert",
+                         "european" = "European",
+                         "mexican" = "Mexican",
+                         "other" = "Other",
+                         "pizza" = "Yellow",
+                         "regional" = "Regional",
+                         "sandwich" = "Sandwich",
+                         "seafood" = "Seafood",
+                         "steak" = "Steak",
+                         "variety" = "Variety")
+      
+
+      legendUI = lapply(names(legend_info), function(type) {
+        div(
+          div(
+            style = sprintf("background-color: %s; width: 10px; height: 10px; display: inline-block; margin-right: 5px;",
+                            ifelse(map_data$type == "asian", "red",
+                            ifelse(map_data$type == "breakfast", "gold",
+                            ifelse(map_data$type == "buffet", "pink",
+                            ifelse(map_data$type == "burger", "tan",
+                            ifelse(map_data$type == "chicken", "white",
+                            ifelse(map_data$type == "dessert", "turquoise",
+                            ifelse(map_data$type == "european", "black",
+                            ifelse(map_data$type == "mexican", "orange",
+                            ifelse(map_data$type == "other", "gray",
+                            ifelse(map_data$type == "pizza", "yellow",
+                            ifelse(map_data$type == "regional", "darkblue",
+                            ifelse(map_data$type == "sandwich", "green",
+                            ifelse(map_data$type == "seafood", "blue",
+                            ifelse(map_data$type == "steak", "brown",
+                            ifelse(map_data$type == "variety", "purple", NA))))))))))))))))
+        ),
+        div(legend_info[[type]],
+            style = "display: inline-block; margin-bottom: 5px;"
+        ),
+        stye = "margin-right: 5px;"
+      )
+      })
+
+      div(legendUI, style = "margin-top: 5px;")
+    })
     
   }
   
