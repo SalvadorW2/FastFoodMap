@@ -4,7 +4,6 @@ address,city,country,keys,latitude,longitude,name,type,postalCode,province,websi
 3456 W Lincoln Ave,Anaheim,US,us/ca/anaheim/3456wlincolnave/-39998098,33.8352932,-117.9145036,China King,asian,92801,CA,"http://www.chinaking.org/,http://www.chinaking.org"
 5045 N 9th Ave,Pensacola,US,us/fl/pensacola/5045n9thave/2059962155,30.471728,-87.213627,China King Restaurant,asian,32504,FL,
 66 S Washington Ave,Bergenfield,US,us/nj/bergenfield/66swashingtonave/595979374,40.9256,-73.9967,Cusinera,asian,7621,NJ,
-Pluit Village Lantai 4 37,Fairport,US,us/ny/fairport/pluitvillagelantai437/342943180,-6.116430644,106.7901245,Hoka Hoka Bento,asian,14450,NY,
 601 N Euclid St,Anaheim,US,us/ca/anaheim/601neuclidst/-1317090690,33.84014402,-117.9420309,Jollibee,asian,92801,CA,http://jollibeeusa.com
 20 S Park Victoria Dr,Milpitas,US,us/ca/milpitas/20sparkvictoriadr/1817020055,37.43534,-121.88401,Kim Lee Fast Food,asian,95035,CA,
 1020 Keolu Dr,Kailua,US,us/hi/kailua/1020keoludr/415947181,21.37796413,-157.7291938,L&L Hawaiian Barbecue,asian,96734,HI,http://hawaiianbarbecue.com
@@ -966,7 +965,6 @@ Building 1649,Belleville,US,us/il/belleville/building1649/-2061630068,38.540844,
 2327 Oneal Ln,Baton Rouge,US,us/la/batonrouge/2327onealln/-2061630068,30.41684125,-91.03785327,Burger King,burger,70816,LA,http://burgerking.com
 730 Route 9,Fishkill,US,us/ny/fishkill/730route9/-2061630068,41.537406,-73.900099,Burger King,burger,12524,NY,http://www.bk.com
 3709 N Tryon St,Charlotte,US,us/nc/charlotte/3709ntryonst/-2061630068,35.254958,-80.802188,Burger King,burger,28206,NC,http://www.bk.com
-Riego De Agua 27 27,Baden,US,us/pa/baden/riegodeagua2727/-2061630068,43.37011238,-8.398568084,Burger King,burger,15005,PA,
 315 S 3rd St,Bismarck,US,us/nd/bismarck/315s3rdst/-2061630068,46.80249,-100.78729,Burger King,burger,58504,ND,"http://www.bk.com,https://locations.bk.com/nd/bismarck/315-south-3rd-st.html"
 9201 S Dixie Hwy,Miami,US,us/fl/miami/9201sdixiehwy/-2061630068,25.684879,-80.312689,Burger King,burger,33156,FL,http://bk.com
 5869 Antelope Rd,Sacramento,US,us/ca/sacramento/5869anteloperd/-2061630068,38.70585,-121.32781,Burger King,burger,95842,CA,"https://locations.bk.com/ca/sacramento/5869-antelope-rd.html,http://bk.com,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PKGdfOHubWrvM0QwDCYwbOH2fdLi0dK5xArULcksCCbfR-WWAz9xD1AmGVAQZIom4U3n5R4DuRC8WJCtvJcNItEKoCSfzwapuGnmwGnHDpEGYXGjnN4u8zXqkiimSHFf4_dbqGRbVgNJtTdNnwV10sceR5oYZCeB5deRePoMBoJ9LqdUukmoWoihIZqxAwRkf2KANUtouFtXyU_bgDjiJC2lcBx59MBWPjCmgBv1aZUNt85w3GJfUydiE7nhash4ikxL7zxX4dYC-rhjEbSZidFgaD-PYQh2Rx5ypP5N3EP_3FOLn0g06d9DOEwGmHpAy_m7M8ZYh-Lir397ttTaTpU6Hp-ZXeMmtSNV3jJnL8LZJraHe2cIWfUm85GAq0oYQrxfvXZkYUNOnw6coQnA-Hr8Fg5quTwzhWcY2vbjrUrzYNCTtjufttg0dfepMvbBFj2ptYCST-iaPT5tS-H3NkK6lE5ldLeG_3fMR0nGzAMX&placement=listing_profile&cs_user=unknown&cs_session=481624cb6cc45b3be508ebc7cda938b7a278fa73"
@@ -1007,10 +1005,8 @@ Riego De Agua 27 27,Baden,US,us/pa/baden/riegodeagua2727/-2061630068,43.37011238
 6662 W Overland Dr,Idaho Falls,US,us/id/idahofalls/6662woverlanddr/-2061630068,43.43777,-112.11566,Burger King,burger,83402,ID,"https://locations.bk.com/id/idaho-falls/6662-w-overland-dr.html,http://www.bk.com"
 10516 Sharpsburg Pike,Hagerstown,US,us/md/hagerstown/10516sharpsburgpike/-2061630068,39.600468,-77.729678,Burger King,burger,21740,MD,http://www.bk.com
 22442 84 Ave S,Kent,US,us/wa/kent/2244284aves/-2061630068,47.40042122,-122.2274331,Burger King,burger,98032,WA,http://bk.com
-Jahnplatz 11/12,Tampa,US,us/fl/tampa/jahnplatz11/12/-2061630068,52.022988,8.532845,Burger King,burger,33602,FL,
 3009 E Busch Blvd,Tampa,US,us/fl/tampa/3009ebuschblvd/-2061630068,28.03205,-82.42548,Burger King,burger,33612,FL,http://www.bk.com
 2751 W Orangethorpe Ave,Fullerton,US,us/ca/fullerton/2751worangethorpeave/-2061630068,33.859473,-117.975957,Burger King,burger,92833,CA,"http://www.bk.com,http://burgerking.com/"
-"C. Bravo Murillo, 222",Alexis,US,"us/nc/alexis/c.bravomurillo,222/-2061630068",40.457989,-3.700862,Burger King,burger,28006,NC,http://www.burgerking.es
 1139 W Broadway Rd,Tempe,US,us/az/tempe/1139wbroadwayrd/-2061630068,33.407074,-111.95721,Burger King,burger,85282,AZ,"http://www.bk.com,http://bk.com/"
 801 3rd Ave W,Birmingham,US,us/al/birmingham/8013rdavew/-2061630068,33.505337,-86.849146,Burger King,burger,35204,AL,"http://www.bk.com,https://locations.bk.com/al/birmingham/801-3rd-ave-west.html"
 5909 Manatee Ave W,Bradenton,US,us/fl/bradenton/5909manateeavew/-2061630068,27.495873,-82.620487,Burger King,burger,34209,FL,http://www.bk.com
@@ -1203,7 +1199,6 @@ Aafes Fort Campbell,Fort Campbell,US,us/ky/fortcampbell/aafesfortcampbell/-20616
 1316 N State St,Belvidere,US,us/il/belvidere/1316nstatest/-2061630068,42.268871,-88.85403,Burger King,burger,61008,IL,
 2318 W Northern Ave,Phoenix,US,us/az/phoenix/2318wnorthernave/-2061630068,33.55324,-112.1087,Burger King,burger,85021,AZ,"http://www.bk.com,http://bk.com"
 197 W Ocean View Ave,Norfolk,US,us/va/norfolk/197woceanviewave/-2061630068,36.9553,-76.2531,Burger King,burger,23503,VA,"http://www.bk.com,https://locations.bk.com/va/norfolk/197-w-ocean-view-ave.html"
-"Cc Campanar Valencia 3, Manuel De Falla,13",Anderson,US,"us/in/anderson/cccampanarvalencia3,manueldefalla,13/-2061630068",39.47656152,-0.405507355,Burger King,burger,46015,IN,http://www.burgerking.es
 6085 Samuell Blvd,Dallas,US,us/tx/dallas/6085samuellblvd/-2061630068,32.79219,-96.69907,Burger King,burger,75228,TX,"https://locations.bk.com/tx/dallas/6085-samuell-rd.html,http://www.bk.com"
 720 E Main St,Jackson,US,us/oh/jackson/720emainst/-2061630068,39.04259,-82.62883,Burger King,burger,45640,OH,"http://www.bk.com,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PKGdfOHubWrvM0QwDCYwbOH2fdLi0dK5xArULcksCCbfR-WWAz9xD1AmGVAQZIom4U3n5R4DuRC8WJCtvJcNItEKoCSfzwapuGnmwGnHDpEGYXGjnN4u8zXqkiimSHFf4_dbqGRbVgNJMEsyqLWgBLiNIBUCxaRqpaKa1engs-COXZjOavqV35sVeuD1msPD8tHrsc7S63ST-mm8Q71gJZBeRTXb6A_l6zRaS3-oQ5Qaax2GjZ0QRg_E4X9TmObFDzTRk9Q8sOZiw556thGgTbV5qk0Rbx8mbwdC2zrDzg4A8CS6-WV6SEcgFlnRbxELdHdPXDbo2xDyCsGTTOZM-6-P4jl-Wla8PtkS2RZnz4bJfk2S6jK-GTXz4-tcvt7sARgryFOgZ-3K4zX1vhpHXsGZ5UUcCVGPouPTMl_QPrJW-1RcxKoxGyImL5u2HKS9XbTxZQxCCJ_JtSlzn7a2XHB3Yjpazvdr3A&placement=listing_profile&cs_user=unknown&cs_session=97cb0669a0d968d8b29b10647a91fe0b49f722e0"
 6002 N Mesa,El Paso,US,us/tx/elpaso/6002nmesa/-2061630068,31.82999383,-106.5283615,Burger King,burger,79912,TX,
@@ -1228,10 +1223,8 @@ Aafes Fort Campbell,Fort Campbell,US,us/ky/fortcampbell/aafesfortcampbell/-20616
 2060 Verdugo Blvd,Montrose,US,us/ca/montrose/2060verdugoblvd/-2061630068,34.204709,-118.222331,Burger King,burger,91020,CA,"http://www.bk.com,http://www.burgerking.com/"
 95 Western Blvd,Jacksonville,US,us/nc/jacksonville/95westernblvd/-2061630068,34.74447,-77.37977,Burger King,burger,28546,NC,"http://www.bk.com,https://locations.bk.com/nc/jacksonville/95-western-blvd.html,http://bk.com"
 2229 Bessemer Rd,Birmingham,US,us/al/birmingham/2229bessemerrd/-2061630068,33.49605,-86.8777,Burger King,burger,35208,AL,"http://www.bk.com,https://locations.bk.com/al/birmingham/2229-bessemer-rd.html"
-Europaallee 6,Palco,US,us/ks/palco/europaallee6/-2061630068,49.45753,7.80364,Burger King,burger,67657,KS,http://www.burgerking.de
 10849 S U Highway 441,Leesburg,US,us/fl/leesburg/10849suhighway441/-2061630068,28.82018708,-81.77647686,Burger King,burger,34788,FL,http://www.bk.com
 1280 Lancaster Dr SE,Salem,US,us/or/salem/1280lancasterdrse/-2061630068,44.91439,-122.97977,Burger King,burger,97317,OR,"http://www.bk.com,http://bk.com"
-Plaza Blok M Ug,Niverville,US,us/ny/niverville/plazablokmug/-2061630068,-6.24427307,106.7971007,Burger King,burger,12130,NY,
 803 S Highway 53,La Grange,US,us/ky/lagrange/803shighway53/-2061630068,38.418372,-85.380675,Burger King,burger,40031,KY,"https://locations.bk.com/ky/la-grange/803-south-highway-53.html,https://www.bk.com,http://www.rallyshamburgers.com"
 2100 N Buckeye,Abilene,US,us/ks/abilene/2100nbuckeye/-2061630068,38.93748874,-97.21447989,Burger King,burger,67410,KS,http://bk.com
 990 NW Eastman Pkwy,Gresham,US,us/or/gresham/990nweastmanpkwy/-2061630068,45.504448,-122.435513,Burger King,burger,97030,OR,
@@ -1289,7 +1282,6 @@ Plaza Blok M Ug,Niverville,US,us/ny/niverville/plazablokmug/-2061630068,-6.24427
 60 Hartford Ave,Providence,US,us/ri/providence/60hartfordave/-2061630068,41.8168,-71.4455,Burger King,burger,2909,RI,http://www.bk.com
 3765 Gateway Dr,Grand Forks,US,us/nd/grandforks/3765gatewaydr/-2061630068,47.932974,-97.082449,Burger King,burger,58203,ND,"http://www.bk.com,https://locations.bk.com/nd/grand-forks/3765-gateway-dr.html"
 2122 SE Bristol St,Newport Beach,US,us/ca/newportbeach/2122sebristolst/-2061630068,33.660445,-117.873531,Burger King,burger,92660,CA,"http://www.burgerking.com/,http://bk.com"
-Prol Zaragoza 80,Fort Worth,US,us/tx/fortworth/prolzaragoza80/-2061630068,20.57869561,-100.4189229,Burger King,burger,76177,TX,
 875 Fairport Rd,East Rochester,US,us/ny/eastrochester/875fairportrd/-2061630068,43.102842,-77.481813,Burger King,burger,14445,NY,http://www.bk.com
 2171 Ft Reilly Rd,Fort Bragg,US,us/nc/fortbragg/2171ftreillyrd/-2061630068,35.13189105,-78.99660778,Burger King,burger,28307,NC,http://www.bk.com/restaurants/nc/fort-bragg/2171-ft-reilly-rd-bldg-4-18842.html
 811 Madison Ave N,Douglas,US,us/ga/douglas/811madisonaven/-2061630068,31.516204,-82.849321,Burger King,burger,31533,GA,"http://www.bk.com,https://locations.bk.com/ga/douglas/811-north-madison-ave.html,https://www.bk.com"
@@ -1356,7 +1348,6 @@ Nys Thruway M P 244 E,Westmoreland,US,us/ny/westmoreland/nysthruwaymp244e/-20616
 601 E Dyer Rd,Santa Ana,US,us/ca/santaana/601edyerrd/-2061630068,33.709007,-117.85915,Burger King,burger,92705,CA,http://www.bk.com
 150 Everett Ave,Chelsea,US,us/ma/chelsea/150everettave/-2061630068,42.3958,-71.03969,Burger King,burger,2150,MA,"http://www.bk.com,http://www.burgerking.com/"
 3141 Ashland Ave,Chicago,US,us/il/chicago/3141ashlandave/-2061630068,41.83692793,-87.66525015,Burger King,burger,60608,IL,http://www.bk.com
-Plaza Santo Domingo 1,Marietta,US,us/ga/marietta/plazasantodomingo1/-2061630068,37.9873,-1.1296,Burger King,burger,30008,GA,
 607 Union St,Dardanelle,US,us/ar/dardanelle/607unionst/-2061630068,35.22098,-93.16306,Burger King,burger,72834,AR,"http://www.bk.com,https://locations.bk.com/ar/dardanelle/607-union-st.html,http://bk.com"
 600 Airline Blvd,Portsmouth,US,us/va/portsmouth/600airlineblvd/-2061630068,36.833591,-76.340123,Burger King,burger,23707,VA,"http://www.bk.com,http://bk.com"
 4196 N Main St,Bridgeport,US,us/ct/bridgeport/4196nmainst/-2061630068,41.2177771,-73.21363956,Burger King,burger,6606,CT,http://www.bk.com
@@ -1377,7 +1368,6 @@ Building 6110 Martinez Ave,Colorado Springs,US,us/co/coloradosprings/building611
 3020 E Sunshine St,Springfield,US,us/mo/springfield/3020esunshinest/-2061630068,37.18023,-93.234476,Burger King,burger,65804,MO,http://bk.com
 7100 Coastal Palms Blvd,Panama City,US,us/fl/panamacity/7100coastalpalmsblvd/-2061630068,30.1751,-85.7606,Burger King,burger,32408,FL,"http://www.bk.com,https://locations.bk.com/fl/panama-city/7100-coastal-palms-blvd.html,http://bk.com"
 184 Endicott St,Danvers,US,"us/ma/danvers/184endicottst/3145,us/ma/danvers/184endicottst/3145",42.54824,-70.94257,Burger King,burger,01923-3619,MA,http://www.bk.com
-Amposta 30,Stone Creek,US,us/oh/stonecreek/amposta30/2068175928,41.071628,1.149741,Burger King Salou,burger,43840,OH,
 1017 W Pine St,Deming,US,"us/nm/deming/1017wpinest/-2061361982,us/nm/deming/1017wpinest/-2061361982",32.2675,-107.7702,Burger Time,burger,88030,NM,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PKGdfOHubWrvM0QwDCYwbOH2fdLi0dK5xArULcksCCbfR-WWAz9xD1AmGVAQZIom4U3n5R4DuRC8WJCtvJcNItEKoCSfzwapuGnmwGnHDpEGYXGjnN4u8zXqkiimSHFf4_dbqGRbVgNJPvUjGdGgPHw72-ia6bKNnVvhRyfdTYxr7RqTbTdH9aqyF-WRCaKBB9zZWRZnZU4l9K42CSXWaXqNcecAoejAgFBT8AgiUCOJOgQCcI4hv9dPtPqiUdQLkkj_Ye7puhrAYbxnBgqnUh1EVC18iZwOMHN9eznbFMMZEv3Xz-N_KmtBib7woYWYuuD3MpeGPPmPl1qjh8KsPg_yDisNzGmXqO8uFUlhyBZ01roGti4GC_zfy6QS4AiJyfXqlsz0GOPn1UQwgimQt9TujApES9jGsX0MS8V_rQUuLmPv9YtGdgUNpH-OPiBfaeT4xFI0YJUyGSPZKZJNQtBohgBqQaeYkh1CzSRw2WJ0Qn05wS-tmUw&placement=listing_profile&cs_user=unknown&cs_session=1b649a6c1e5cecc3cd6effca7c758be10ee16e34
 783 Ness Corner Rd,Port Hadlock,US,us/wa/porthadlock/783nesscornerrd/-597218887,48.03275,-122.76494,Burger's Landing,burger,98339-9411,WA,
 3432 SE 25th Ave,Portland,US,"us/or/portland/3432se25thave/524134397,us/or/portland/3432se25thave/524134397",45.49826,-122.63992,Burgerville,burger,97202-2166,OR,http://www.burgerville.com
@@ -3777,7 +3767,6 @@ Bridge St,Clarkston,US,us/wa/clarkston/bridgest/-1161002137,46.39717209,-117.032
 13145 Sorrento Rd,Pensacola,US,us/fl/pensacola/13145sorrentord/-1161002137,30.320768,-87.42139,McDonalds,burger,32507,FL,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
 3301 Pontchartrain Dr,Slidell,US,us/la/slidell/3301pontchartraindr/-1161002137,30.25907,-89.78712,McDonalds,burger,70458,LA,"http://mcdonalds.com,http://www.mcdonalds.com"
 920 SW US Highway 40,Blue Springs,US,us/mo/bluesprings/920swushighway40/-1161002137,39.00861,-94.27676,McDonalds,burger,64015,MO,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
-40/25,Worcester,US,us/ma/worcester/40/25/-1161002137,50.44702485,30.50907612,McDonalds,burger,1601,MA,http://mcdonalds.ua
 4180 SW 9th St,Miami,US,us/fl/miami/4180sw9thst/-1161002137,25.76343653,-80.262914,McDonalds,burger,33134,FL,http://mcdonalds.com
 7900 N Mesa St,El Paso,US,us/tx/elpaso/7900nmesast/-1161002137,31.84048,-106.57359,McDonalds,burger,79932,TX,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
 450 N Merrifield Rd,Dallas,US,us/tx/dallas/450nmerrifieldrd/-1161002137,32.74884,-96.92287,McDonalds,burger,75211,TX,"http://mcdonalds.com,http://mcdonalds.com/"
@@ -3829,7 +3818,6 @@ SW Village Pkwy,Port Saint Lucie,US,us/fl/portsaintlucie/swvillagepkwy/-11610021
 5801 Beach Blvd,Jacksonville,US,us/fl/jacksonville/5801beachblvd/-1161002137,30.2933,-81.60456,McDonalds,burger,32207,FL,"http://mcdonalds.com,http://www.mcdonalds.com"
 4121 Hiawatha Ave,Minneapolis,US,us/mn/minneapolis/4121hiawathaave/-1161002137,44.928207,-93.223585,McDonalds,burger,55406,MN,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
 2700 S Kirkwood Rd,Houston,US,us/tx/houston/2700skirkwoodrd/-1161002137,29.747656,-95.60299,McDonalds,burger,77077,TX,"http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://mcdonalds.com/,http://mcdonalds.com"
-"Via Gorgolungo, 6",Highland Park,US,"us/il/highlandpark/viagorgolungo,6/-1161002137",43.52272,13.25199,McDonalds,burger,60035,IL,http://www.mcdonalds.it
 130 Route 44,Millerton,US,us/ny/millerton/130route44/-1161002137,41.9529,-73.5056,McDonalds,burger,12546,NY,"http://mcdonalds.com,http://www.mcdonalds.com"
 28069 Highway 28,Hazlehurst,US,us/al/hazlehurst/28069highway28/-1161002137,31.87543,-90.40305,McDonalds,burger,39083,AL,http://mcdonalds.com
 235 Meadowlands Blvd,Washington,US,us/pa/washington/235meadowlandsblvd/-1161002137,40.225303,-80.210693,McDonalds,burger,15301,PA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
@@ -4061,7 +4049,6 @@ Commerce Blvd,Hope,US,us/ar/hope/commerceblvd/-1161002137,33.680375,-93.60558,Mc
 5911 S Braeswood Blvd,Houston,US,us/tx/houston/5911sbraeswoodblvd/-1161002137,29.67747,-95.49409,McDonalds,burger,77096,TX,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://mcdonalds.com/"
 5517 NE Gher Rd,Vancouver,US,us/wa/vancouver/5517negherrd/-1161002137,45.66291,-122.55922,McDonalds,burger,98662,WA,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
 1910 W 6th Ave,Eugene,US,us/or/eugene/1910w6thave/-1161002137,44.05282,-123.12167,McDonalds,burger,97402,OR,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
-An der Autobahn 2,Travelers Rest,US,us/sc/travelersrest/anderautobahn2/-1161002137,52.6743,9.68768,McDonalds,burger,29690,SC,http://www.mcdonalds.de
 1180 W State St,Hurricane,US,us/ut/hurricane/1180wstatest/-1161002137,37.17689,-113.31047,McDonalds,burger,84737,UT,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4ESe32aGoZZfGxPUKOAupg6AXFQsvl2-A1Ztd21x5FLKumNpUzGNTBeMk2RvPjC41ZIvgiFwjULRMf936HQ-3fDilu-Jgq-3DroFPqeb7LaXUO4XtGt4yXSJsg9W4tlLVRNocJRkydaRxa9wTgFisP8W1xHayi-pt4xFwjWo1y_3q1r1Bkmyo1SsV8tyijxOe9nGmOOjzkBTbGzKhkSMG1qXlCzDEoBgOzvnn1wubYZqwq4aMSwfPfo4xJTyR2YtHgDdJ08ZVzWeoEzW_XBsHs_SxTeZqXwB02FNSVddkshMFlqbk-ofBb3IYNyqfZzbrjUxyfLzS2rQ7rVGPGYH0qr1g6s9c1CQ7ofKL0Ah80nvuklWFkooqYL3KmfCueE0rNvhYX0J4r5SdLm7fl8aWiNbRqfKPDsHuQn6LVALLrgxMX4f0MNty7wdkEqOJCz_bNI4WBiSjzosK5N_tnBJDzF402DZoxN1kAXVZaT4kH4s67TbYAl2C7kSl63Bv4j70aadfcsu_zhKE&placement=listing_profile.c&cs_user=unknown&cs_session=89b1eb3e3afe15ea2a49ec72ceabf0df27260134"
 2426 E Riverside Dr,Austin,US,us/tx/austin/2426eriversidedr/-1161002137,30.23573,-97.72405,McDonalds,burger,78741,TX,"http://t.co/vn89Zbxm,http://www.mcdonalds.com/"
 1127 N San Fernando Blvd,Burbank,US,us/ca/burbank/1127nsanfernandoblvd/-1161002137,34.188477,-118.319727,McDonalds,burger,91504,CA,"http://mcdonalds.com,http://mcdonalds.com/,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
@@ -4153,8 +4140,6 @@ E Wal*mart 100 I 240 Service Rd,Oklahoma City,US,us/ok/oklahomacity/ewal*mart100
 30255 Commerce Dr,Millsboro,US,us/de/millsboro/30255commercedr/-1161002137,38.572872,-75.28649,McDonalds,burger,19966,DE,"http://mcdonalds.com,http://www.mcdonalds.com"
 181 James Reynolds Rd,Swansea,US,us/ma/swansea/181jamesreynoldsrd/-1161002137,41.769363,-71.26494,McDonalds,burger,2777,MA,"http://mcdonalds.com,http://www.mcdonalds.com"
 26570 Jones Loop Rd,Punta Gorda,US,us/fl/puntagorda/26570joneslooprd/-1161002137,26.896108,-82.006771,McDonalds,burger,33950,FL,http://mcdonalds.com
-Place de Passy,Irving,US,us/tx/irving/placedepassy/-1161002137,48.857845,2.277513,McDonalds,burger,75016,TX,http://restaurants.mcdonalds.fr/mcdonalds-paris-rue-de-passy
-34 boulevard des Italiens,Celina,US,us/tx/celina/34boulevarddesitaliens/-1161002137,48.8713,2.3351,McDonalds,burger,75009,TX,http://restaurants.mcdonalds.fr/mcdonalds-paris-opera-bld-des-italiens
 1640 SW Wanamaker Rd,Topeka,US,us/ks/topeka/1640swwanamakerrd/-1161002137,39.037099,-95.761881,McDonalds,burger,66604,KS,http://mcdonalds.com
 3706 Gulf Fwy,Dickinson,US,us/tx/dickinson/3706gulffwy/-1161002137,29.44804,-95.07685,McDonalds,burger,77539,TX,"http://mcdonalds.com,http://www.mcdonalds.com/?cid=RF:YXT_FM:TP::Yext:Referral"
 216 W Kipp Rd,Mason,US,us/mi/mason/216wkipprd/-1161002137,42.5678,-84.4452,McDonalds,burger,48854,MI,http://mcdonalds.com
@@ -5662,7 +5647,6 @@ Route 22 Ames Plz,Huntingdon,US,us/pa/huntingdon/route22amesplz/-791445730,40.48
 14629 Hwy 64 West,Siler City,US,us/nc/silercity/14629hwy64west/1241037051,35.733422,-79.43472,Bojangles' Famous Chicken 'n Biscuits,chicken,27344,NC,"http://www.bojangles.com,http://locations.bojangles.com/nc/siler-city/14629-hwy-64-west.html"
 1015 West Mercury Blvd,Hampton,US,us/va/hampton/1015westmercuryblvd/1241037051,37.043231,-76.378369,Bojangles' Famous Chicken 'n Biscuits,chicken,23666,VA,http://www.bojangles.com
 573 Bypass 72 N West,Greenwood,US,us/sc/greenwood/573bypass72nwest/1241037051,34.203,-82.1972,Bojangles' Famous Chicken 'n Biscuits,chicken,29649,SC,"http://www.bojangles.com,http://locations.bojangles.com/sc/greenwood/573-bypass-72-n-west.html"
-1205 N Main Street,Lancaster,US,us/sc/lancaster/1205nmainstreet/1241037051,34.736693,-80.777561,Bojangles' Famous Chicken 'n Biscuits,chicken,29720,SC,"http://www.bojangles.com,http://locations.bojangles.com/sc/lancaster/1205-n-main-street.html"
 4505 Market St,Wilmington,US,us/nc/wilmington/4505marketst/1241037051,34.243498,-77.888748,Bojangles' Famous Chicken 'n Biscuits,chicken,28405,NC,"http://www.bojangles.com,https://locations.bojangles.com/nc/wilmington/4505--market-st.html,http://locations.bojangles.com/nc/wilmington/4505--market-st.html"
 515 East Main Street,Biscoe,US,us/nc/biscoe/515eastmainstreet/1241037051,35.361,-79.7701,Bojangles' Famous Chicken 'n Biscuits,chicken,27209,NC,"http://www.bojangles.com,http://locations.bojangles.com/nc/biscoe/515-east-main-street.html"
 1064 Blowing Rock,Boone,US,us/nc/boone/1064blowingrock/1241037051,36.204748,-81.668966,Bojangles' Famous Chicken 'n Biscuits,chicken,28607,NC,"http://www.bojangles.com,http://locations.bojangles.com/nc/boone/1064-blowing-rock.html"
@@ -5746,7 +5730,6 @@ Route 22 Ames Plz,Huntingdon,US,us/pa/huntingdon/route22amesplz/-791445730,40.48
 2121 Friendship Rd,Flowery Branch,US,us/ga/flowerybranch/2121friendshiprd/1241037051,34.108722,-83.877157,Bojangles' Famous Chicken 'n Biscuits,chicken,30542,GA,http://bojangles.com
 1410 Round Rock Ave,Round Rock,US,us/tx/roundrock/1410roundrockave/-839893046,30.5121,-97.698,Bush's Chicken,chicken,78681,TX,http://bushschicken.com
 4748 S 32nd West Ave,Tulsa,US,us/ok/tulsa/4748s32ndwestave/-1494348972,36.09389822,-96.02901277,Charlie's Chicken,chicken,74107,OK,
-Rama 9 Square,Staten Island,US,us/ny/statenisland/rama9square/1535941433,13.76011097,100.5674863,Chester's Grill,chicken,10310,NY,
 200 Cummins St,Bowie,US,us/tx/bowie/200cumminsst/-390366181,33.56045,-97.85103,Chicken Express,chicken,76230,TX,"http://chickene.com,http://www.chickene.com"
 4708 W 7th St,Texarkana,US,us/tx/texarkana/4708w7thst/-390366181,33.41782,-94.10353,Chicken Express,chicken,75501,TX,"http://www.chickene.com,http://chickene.com"
 100 SE 25th Ave,Mineral Wells,US,us/tx/mineralwells/100se25thave/-390366181,32.80926,-98.087926,Chicken Express,chicken,76067,TX,http://www.chickene.com
@@ -6312,7 +6295,6 @@ Upham & Columbus Avenue,Rochester,US,us/nh/rochester/uphamcolumbusavenue/106088,
 1733 N 50th St,Tampa,US,us/fl/tampa/1733n50thst/106088,27.96172923,-82.40153633,Kentucky Fried Chicken,chicken,33619,FL,"http://www.kfc.com,http://kfc.com"
 7 Pershing Dr,Derby,US,us/ct/derby/7pershingdr/106088,41.33198,-73.08434,Kentucky Fried Chicken,chicken,6418,CT,http://www.kfc.com
 140 Main St,Westbrook,US,us/me/westbrook/140mainst/106088,43.67815018,-70.33592987,Kentucky Fried Chicken,chicken,4092,ME,http://kfc.com
-2 Jalan Sungai Burung 32/68 (seksyen 32),Orlando,US,us/ky/orlando/2jalansungaiburung32/68(seksyen32)/106088,2.999309139,101.5282486,Kentucky Fried Chicken,chicken,40460,KY,
 1810 Winderly Ln,Pickerington,US,us/oh/pickerington/1810winderlyln/106088,39.9298,-82.79,Kentucky Fried Chicken,chicken,43147,OH,"http://www.kfc.com,http://kfc.com"
 1707 Lincoln St,Concordia,US,us/ks/concordia/1707lincolnst/106088,39.560372,-97.657358,Kentucky Fried Chicken,chicken,66901,KS,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PKGdfOHubWrvM0QwDCYwbOH2fdLi0dK5xArULcksCCbfR-WWAz9xD1AmGVAQZIom4U3n5R4DuRC8WJCtvJcNItEKoCSfzwapuGnmwGnHDpEGYXGjnN4u8zXqkiimSHFf4_dbqGRbVgNJJZi5Cy_tuHPbBk4yRc04tDCIZSuPh8gaXdU21yZTvNFo7hWfT6bO-tJEMQvgctqaLw1WAg2CCbvmw7aw2diz2CYYoB2F2psvLOfY_L-9JWaC__w29gUCZTM946M2qInjtJVCIh81JHlbcGOpdEfnumi7limzn1D71N7IY3_t6N5HSnmhdNHisoVhayWeSq-lhRovaMMX6hE2twykkWzwcaUc7fzNqbfIne5p1AaForQ1jZjvfuUZ0j9CcQiZw4FpoxOBgkyHHSFsXmjmdRaq9pyFtRD4P6XaCWPzcFE2KGn0qdoWznoKziacDU8nNfz1lCYiiGHmusHtQowxweOyfg&placement=listing_profile&cs_user=unknown&cs_session=81b304f37221c02b9c83c7d2d34e427aeccdaada
 3201 S Broadway,Edmond,US,us/ok/edmond/3201sbroadway/106088,35.624943,-97.486526,Kentucky Fried Chicken,chicken,73013,OK,http://kfc.com
@@ -6359,7 +6341,6 @@ Upham & Columbus Avenue,Rochester,US,us/nh/rochester/uphamcolumbusavenue/106088,
 1293 N State Road 135,Greenwood,US,us/in/greenwood/1293nstateroad135/106088,39.6342,-86.1583,Kentucky Fried Chicken,chicken,46142,IN,"http://www.kfc.com,http://kfc.com"
 477 15 By Pass W,Bennettsville,US,us/sc/bennettsville/47715bypassw/106088,34.60519556,-79.69533218,Kentucky Fried Chicken,chicken,29512,SC,http://kfc.com
 1075 SW Highway 97,Madras,US,us/or/madras/1075swhighway97/106088,44.621001,-121.13185,Kentucky Fried Chicken,chicken,97741,OR,"http://www.kfc.com,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EGQ6wFBP1R9j_yPfgIG2qmnnU3b4EFXLWYqzqH6pileJnsDBgYjhj6412OE3eqoLyrSIPEJpXfr10mUiQbRKfZCKZytUuX1ZpMEsmU-K0mL9uCZDhf-nRxkx0xcmqFX3TZTiNoK_LLFKzM4tXpEgtM6BtXv1F1DttcHN1U5pyLafBezzTLxIl0okzitveoHUSuAKFmLGgwlI14UdX0nMUSzshFibLUYRzy-md6k4dEoSzlTonNwNycU_Tu_QdfSSbbcqN_rEPCXQJeRtPYHy1H0J5MWlOeGVIloWkSnQuWCw8SLbj6Kqs8pfrcah3Fi5Bb_MdXoszLRGSalYaUYuIQ2VyhpecD7DU8cwRpMtKQRQ14M88sLSULiCIiNCERPfJgqCHQMhX7SRfyD_CZsFAodkx-2Dlm9S5rM4bsQZhssApQ7nMQlnJagj8-q0NKn2P0hlh5n6kwgzPNr5nT4hURevk3R0ubWCi_3tSSomaxXZmbz8BVp1_aC0eJ7zm4knB&placement=listing_profile.b&cs_user=unknown&cs_session=b5b7af4a416fa7019740be6e1e6fc42476ea3634"
-Divisin Del Norte 2855,Harrison,US,us/me/harrison/divisindelnorte2855/106088,19.3452617,-99.1498518,Kentucky Fried Chicken,chicken,4040,ME,http://kfc.com.mx
 7010 Central Ave SE,Albuquerque,US,us/nm/albuquerque/7010centralavese/106088,35.0756,-106.5688,Kentucky Fried Chicken,chicken,87108,NM,"http://kfc.com,http://www.kfc.com"
 7770 E Ridge Rd,Hobart,US,us/in/hobart/7770eridgerd/106088,41.5508,-87.2478,Kentucky Fried Chicken,chicken,46342,IN,"http://www.kfc.com,http://kfc.com"
 7500 W Chester Pike,Upper Darby,US,us/pa/upperdarby/7500wchesterpike/106088,39.963943,-75.270197,Kentucky Fried Chicken,chicken,19082,PA,"http://tacobell.com,http://kfc.com"
@@ -6534,14 +6515,10 @@ N. 38th St.,Baton Rouge,US,us/la/batonrouge/n.38thst./-394404301,30.47032857,-91
 213 Bayview Ave,Put In Bay,US,us/oh/putinbay/213bayviewave/-1025591946,41.6541,-82.81519,Dairy Isle,dessert,43456,OH,
 346 N 2nd E,Rexburg,US,us/id/rexburg/346n2nde/-1721138121,43.83341,-111.77794,Dairy Queen,dessert,83440,ID,http://www.dairyqueen.com
 9526 State Route 30,Irwin,US,us/pa/irwin/9526stateroute30/-1721138121,40.32349,-79.70007,Dairy Queen,dessert,15642,PA,http://www.dairyqueen.com
-9695 Veterans Memorial Pkwy,O Fallon,US,us/mo/ofallon/9695veteransmemorialpkwy/-1721138121,38.79998936,90.73405594,Dairy Queen,dessert,63366,MO,http://www.dairyqueen.com
 3198 US Highway 50 E,Carson City,US,us/nv/carsoncity/3198ushighway50e/-1721138121,39.177388,-119.732214,Dairy Queen,dessert,89701,NV,http://www.dairyqueen.com
-1481 State Rt 23,Butler,US,us/nj/butler/1481statert23/-1721138121,41.00028945,74.35602581,Dairy Queen,dessert,7405,NJ,http://www.dairyqueen.com
 1537 Jenkins Rd,Whitesburg,US,us/ky/whitesburg/1537jenkinsrd/-1721138121,37.11156,-82.80312,Dairy Queen,dessert,41858,KY,http://www.dairyqueen.com
 512 E Main St,Morehead,US,us/ky/morehead/512emainst/-1721138121,38.1876,-83.4297,Dairy Queen,dessert,40351,KY,http://www.dairyqueen.com
 1715 Frederica St,Owensboro,US,us/ky/owensboro/1715fredericast/-1721138121,37.7588,-87.1119,Dairy Queen,dessert,42301,KY,http://www.dairyqueen.com
-618 N Carol Malone Blvd,Grayson,US,us/ky/grayson/618ncarolmaloneblvd/-1721138121,38.338955,82.943313,Dairy Queen,dessert,41143,KY,
-205 N Main St,Somerset,US,us/ky/somerset/205nmainst/-1721138121,37.094848,84.605649,Dairy Queen,dessert,42501,KY,http://www.dairyqueen.com
 475 S Highway 27,Somerset,US,us/ky/somerset/475shighway27/-1721138121,37.087513,-84.61675,Dairy Queen,dessert,42501,KY,http://www.dairyqueen.com
 45 Gouverneur St,Canton,US,us/ny/canton/45gouverneurst/-1721138121,44.5908,-75.1749,Dairy Queen,dessert,13617,NY,http://dairyqueen.com
 761 Lockhaven Dr NE,Salem,US,us/or/salem/761lockhavendrne/-1721138121,45.0051,-123.0237,Dairy Queen,dessert,97303,OR,http://www.dairyqueen.com
@@ -6563,26 +6540,13 @@ N. 38th St.,Baton Rouge,US,us/la/batonrouge/n.38thst./-394404301,30.47032857,-91
 3076 S Clark St,Mexico,US,us/mo/mexico/3076sclarkst/-1721138121,39.157575,-91.886431,Dairy Queen,dessert,65265,MO,http://www.dairyqueen.com
 214 S Main St,Morton,US,us/il/morton/214smainst/-1721138121,40.60897,-89.46248,Dairy Queen,dessert,61550,IL,
 1601 Sandy Hollow Rd,Rockford,US,us/il/rockford/1601sandyhollowrd/-1721138121,42.223428,-89.072105,Dairy Queen,dessert,61109,IL,http://www.dairyqueen.com
-203 Kanawha Ave,Rainelle,US,us/wv/rainelle/203kanawhaave/-1721138121,37.9687,80.770139,Dairy Queen,dessert,25962-1107,WV,http://www.dairyqueen.com
-901 Jensen Highway,Hot Springs,US,us/sd/hotsprings/901jensenhighway/-1721138121,43.42242,103.46362,Dairy Queen,dessert,57747,SD,http://www.dairyqueen.com
-117 NE 2nd St,Madison,US,us/sd/madison/117ne2ndst/-1721138121,44.00705574,97.11372035,Dairy Queen,dessert,57042,SD,http://www.dairyqueen.com
-11800 Burlington Rd,Kenosha,US,us/wi/kenosha/11800burlingtonrd/-1721138121,42.614927,87.950204,Dairy Queen,dessert,53144,WI,
-4200 Mormon Coulee Rd,La Crosse,US,us/wi/lacrosse/4200mormoncouleerd/-1721138121,43.76990875,91.21469807,Dairy Queen,dessert,54601,WI,http://www.dairyqueen.com
-6350 Highway 3,Benton,US,us/la/benton/6350highway3/-1721138121,32.68070694,93.74572491,Dairy Queen,dessert,71006,LA,http://www.dairyqueen.com
 212 South Dr,Natchitoches,US,us/la/natchitoches/212southdr/-1721138121,31.74691,-93.08267,Dairy Queen,dessert,71457,LA,http://www.dairyqueen.com
-7984 Brewerton Rd,Cicero,US,us/ny/cicero/7984brewertonrd/-1721138121,43.156757,76.121605,Dairy Queen,dessert,13039,NY,
 1211 S 1st St,Clayton,US,us/nm/clayton/1211s1stst/-1721138121,36.44031,-103.177512,Dairy Queen,dessert,88415,NM,http://www.dairyqueen.com
 108 Cities Of Gold Rd,Santa Fe,US,us/nm/santafe/108citiesofgoldrd/-1721138121,35.87877,-106.00889,Dairy Queen,dessert,87506,NM,http://www.dairyqueen.com
-2000 W Ranch Rd 1431,Kingsland,US,us/tx/kingsland/2000wranchrd1431/-1721138121,30.66154246,98.44620227,Dairy Queen,dessert,78639,TX,http://dairyqueen.com
-2909 E 10th St,Jeffersonville,US,us/in/jeffersonville/2909e10thst/-1721138121,38.313204,85.702012,Dairy Queen,dessert,47130,IN,http://www.dairyqueen.com
-33500 SW Chinook Plaza,Scappoose,US,us/or/scappoose/33500swchinookplaza/-1721138121,45.75166,122.8783,Dairy Queen,dessert,97056,OR,http://www.dairyqueen.com
 1129 S Washington St,Millersburg,US,us/oh/millersburg/1129swashingtonst/-1721138121,40.5406,-81.9152,Dairy Queen,dessert,44654,OH,http://www.dairyqueen.com
-1219 US Hwy 127 S,Frankfort,US,us/ky/frankfort/1219ushwy127s/-1721138121,38.172834,84.89815,Dairy Queen,dessert,40601,KY,http://www.dairyqueen.com
 500 E 7th St,Galena,US,us/ks/galena/500e7thst/-1721138121,37.074888,-94.634943,Dairy Queen,dessert,66739,KS,http://www.dairyqueen.com
-610 Knox St,Barbourville,US,us/ky/barbourville/610knoxst/-1721138121,36.868729,83.880793,Dairy Queen,dessert,40906,KY,http://www.dairyqueen.com
 2430 Nashville Rd,Bowling Green,US,us/ky/bowlinggreen/2430nashvillerd/-1721138121,36.9601,-86.46885,Dairy Queen,dessert,42101,KY,http://www.dairyqueen.com
 16563 Lincoln Hwy,Breezewood,US,us/pa/breezewood/16563lincolnhwy/-1721138121,40.00037,-78.23415,Dairy Queen,dessert,15533,PA,http://www.dairyqueen.com
-19742 Old Highway 99 SW,Rochester,US,us/wa/rochester/19742oldhighway99sw/-1721138121,46.801624,123.012361,Dairy Queen,dessert,98579,WA,http://www.dairyqueen.com
 2300 Rhomberg Ave,Dubuque,US,us/ia/dubuque/2300rhombergave/-1721138121,42.530949,-90.648894,Dairy Queen,dessert,52001,IA,
 441 Main St,East Hartford,US,us/ct/easthartford/441mainst/-1721138121,41.7523,-72.6406,Dairy Queen,dessert,6118,CT,http://www.dairyqueen.com
 700 E McGalliard Rd,Muncie,US,us/in/muncie/700emcgalliardrd/-1721138121,40.21934,-85.37916,Dairy Queen,dessert,47303,IN,http://blog.dairyqueen.com
@@ -6592,38 +6556,26 @@ N. 38th St.,Baton Rouge,US,us/la/batonrouge/n.38thst./-394404301,30.47032857,-91
 909 S Rainbow Blvd,Las Vegas,US,us/nv/lasvegas/909srainbowblvd/-1721138121,36.16125,-115.24393,Dairy Queen,dessert,89145,NV,"http://dairyqueen.com/,http://dairyqueen.com"
 1930 E 7th Ave,Corsicana,US,us/tx/corsicana/1930e7thave/-1721138121,32.0824,-96.4826,Dairy Queen,dessert,75109,TX,"http://www.dairyqueen.com,http://dairyqueen.com"
 11702 Sudley Manor Dr,Manassas,US,us/va/manassas/11702sudleymanordr/-1721138121,38.785828,-77.51713,Dairy Queen,dessert,20109,VA,http://www.dairyqueen.com
-9299 Thornton Rd,Stockton,US,us/ca/stockton/9299thorntonrd/-1721138121,38.034228,121.337911,Dairy Queen,dessert,95209,CA,"http://www.dairyqueen.com,http://dairyqueen.com"
 8530 N Knoxville Ave,Peoria,US,us/il/peoria/8530nknoxvilleave/-1721138121,40.79192,-89.603629,Dairy Queen,dessert,61615,IL,"http://www.dairyqueen.com,http://dairyqueen.com,http://orangejulius.com"
 6590 Highway 90a,Sugar Land,US,us/tx/sugarland/6590highway90a/-1721138121,29.60852291,-95.65795789,Dairy Queen,dessert,77498,TX,http://dairyqueen.com
 914 Paducah Rd,Mayfield,US,us/ky/mayfield/914paducahrd/-1721138121,36.756155,-88.64036,Dairy Queen,dessert,42066,KY,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PNH1zm8s3Brpxys1zenB1gqaWKBJHqW1zunpdHd6A8JLu1EGO323XYc0KRUMLEjavOIQBkLMmA8DjAHzkJpT-fvvuhK-SDo0iG-CvkQnIwDjC0rRycq6JNFFBlPsMAX4kklrrvy0QH31daWqBtD7PApSX8Zwz45thLD-jZTrZfNwMtdeoWnHxCZ-ncIZNWC5mCrVlNAO0izvKCq-lb4IYv_x0iNIt0JJ4SGBG1u2fT6mGH9EgczSz8k0-jmhEA80-KKqtjC7tMrKIN0Q0LgbN-jQAaFG1o7m6Il9pOAOWjBnx7-mc5gdDKWD2XcuDR4LgzTRASl8gy1jkzjxVWw-AlnheY2YEozKx78R6jTihWHP6VTiZHre2FHfcznYGhWa7ULsEJZ3YXTp_pr3n03KF3a1yJXuFGS-_JegPHkyaxhcuRDfFdG2GyXL91nD_dHcFZBDTVGsw5BLS72XDjESKvO5g0S2BIuhd2x3wXRx1ewGniw3dAzcXlnZUljt2zrsgOm3R5bxWaGFkVnKs8zbG_oYyJdpcZYbU_4nTGOrNbO0AZG_73u_coMlaT0ImpMjBodM5DlNW4EK&placement=listing_profile&cs_user=unknown&cs_session=0d819f0bb524bc4a23374bdf62046dad73f97979
 245 S Wadsworth Blvd,Denver,US,us/co/denver/245swadsworthblvd/-1721138121,39.71163,-105.08137,Dairy Queen,dessert,80226,CO,"http://www.dairyqueen.com,http://www.dairyqueen.com/"
 7576 S Pierce St,Littleton,US,us/co/littleton/7576spiercest/-1721138121,39.578598,-105.07237,Dairy Queen,dessert,80128,CO,"http://www.dairyqueen.com,http://www.dairyqueen.com/,http://dairyqueen.com"
-168 US Hwy 68e (Draffenville),Benton,US,us/ky/benton/168ushwy68edraffenville/-1721138121,36.923565,88.341356,Dairy Queen,dessert,42025-7123,KY,http://dairyqueen.com
 4703 Mall Dr,Duluth,US,us/mn/duluth/4703malldr/-1721138121,46.81335,-92.17582,Dairy Queen,dessert,55811,MN,"http://www.dairyqueen.com,http://dairyqueen.com"
-8510 Bowman Dr,Lincoln,US,us/ne/lincoln/8510bowmandr/-1721138121,40.736961,96.604056,Dairy Queen,dessert,68526,NE,http://www.dairyqueen.com
 1805 NW Highway 20,Toledo,US,us/or/toledo/1805nwhighway20/-1721138121,44.6305,-123.9291,Dairy Queen,dessert,97391,OR,http://dairyqueen.com
 101b N Park PL,Stockbridge,US,us/ga/stockbridge/101bnparkpl/-1721138121,33.5083,-84.22905,Dairy Queen,dessert,30281-6380,GA,http://www.dairyqueen.com
-6205 Bardstown Rd,Louisville,US,us/ky/louisville/6205bardstownrd/-1721138121,38.155766,85.589928,Dairy Queen,dessert,40291,KY,http://dairyqueen.com
 2655 S 3rd St,Philadelphia,US,us/pa/philadelphia/2655s3rdst/-1721138121,39.91538,-75.15287,Dairy Queen,dessert,19148,PA,http://www.phillysoftpretzelfactory.com
 12220 SE 82nd Ave,Happy Valley,US,us/or/happyvalley/12220se82ndave/-1721138121,45.43417676,-122.5788188,Dairy Queen,dessert,97086,OR,http://www.dairyqueen.com
 33 Highway 441 N,Clayton,US,us/ga/clayton/33highway441n/-1721138121,34.87844,-83.3973,Dairy Queen,dessert,30525,GA,http://www.dairyqueen.com
 549 S Yearling Rd,Columbus,US,us/oh/columbus/549syearlingrd/-1721138121,39.96292,-82.88604,Dairy Queen,dessert,43213,OH,http://www.dairyqueen.com
 4890 Peachtree Industrial Blvd,Norcross,US,us/ga/norcross/4890peachtreeindustrialblvd/-1721138121,33.968101,-84.194945,Dairy Queen,dessert,30071,GA,http://www.dairyqueen.com
-310 W Canal St,Malvern,US,us/oh/malvern/310wcanalst/-1721138121,40.69121845,81.18815618,Dairy Queen,dessert,44644,OH,http://www.dairyqueen.com/
 6707 Westview Dr,Houston,US,us/tx/houston/6707westviewdr/-1721138121,29.79451,-95.46942,Dairy Queen,dessert,77055,TX,"http://www.dairyqueen.com,http://www.dairyqueen.com/"
 1636 Barataria Blvd,Marrero,US,us/la/marrero/1636baratariablvd/-1721138121,29.88221,-90.09926,Dairy Queen,dessert,70072,LA,http://www.dairyqueen.com
 208 W Mason St,Mabank,US,us/tx/mabank/208wmasonst/-1721138121,32.36602,-96.103364,Dairy Queen,dessert,75147,TX,http://dairyqueen.com
-2077 S 4th Ave,Yuma,US,us/az/yuma/2077s4thave/-1721138121,32.690272,114.624503,Dairy Queen,dessert,85364,AZ,"http://www.dairyqueen.com,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PKGdfOHubWrvM0QwDCYwbOH2fdLi0dK5xArULcksCCbfR-WWAz9xD1AmGVAQZIom4U3n5R4DuRC8WJCtvJcNItEKoCSfzwapuGnmwGnHDpEGYXGjnN4u8zXqkiimSHFf4_dbqGRbVgNJwApyY3afhGNldvGei5ZNhW2VlT6hPz_sXA7uuwthAieRj1aCRPyA0stwQS_GVPtIeBXYzsaxuB_CQGmtAOLk5ltGLqIOGqzHN5l5rp8yONUq-1t7zFpPnJdIN5tctByufLJRybtTvccYApUsEg9gEUoArNuoQPeC6cjXtMMctoA0Cr_xI8GvE5wSgypQwG9ucS6WqqIAPLJwSO7BohqYMLJgrXW3eet_v_8P3PDDVDhr9KyngGcEPgZIce-sqSFfGFw3EKrl1SWgarWO_esCqU1GeN4nZM8xw8mMpVMmdRsd1RvkeOcAY3UEeK05vZBmXPCjzv7Oqb7RumxPqfYAsTwW8xAjLAe2&placement=listing_profile&cs_user=unknown&cs_session=b8c2ff85540cbb408befc427570ce48400e8ada4"
 7501 W Lake Mead Blvd,Las Vegas,US,us/nv/lasvegas/7501wlakemeadblvd/-1721138121,36.19602,-115.25733,Dairy Queen,dessert,89128,NV,http://www.dairyqueen.com
-1317 S Jackson St,Salem,US,us/in/salem/1317sjacksonst/-1721138121,38.597239,86.081628,Dairy Queen,dessert,47167,IN,"http://www.dairyqueen.com,http://dairyqueen.com"
-152 Major Grahams Rd,Max Meadows,US,us/va/maxmeadows/152majorgrahamsrd/-1721138121,36.88214997,80.89294839,Dairy Queen,dessert,24360-3477,VA,http://www.dairyqueen.com
 120 W Broadway St,Brownfield,US,us/tx/brownfield/120wbroadwayst/-1721138121,33.1781,-102.2752,Dairy Queen,dessert,79316,TX,"http://www.dairyqueen.com,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PKGdfOHubWrvM0QwDCYwbOH2fdLi0dK5xArULcksCCbfR-WWAz9xD1AmGVAQZIom4U3n5R4DuRC8WJCtvJcNItEKoCSfzwapuGnmwGnHDpEGYXGjnN4u8zXqkiimSHFf4_dbqGRbVgNJlxyV50ddVLhrB4JsO6TQgZMdc8mS0eSkcDBQhR9ku3azcWaFf6xHUl6N1fVgnuENSETJnjC-OWfEDK_f5QD_nVa0d_vXowBl_Lkb7vFoYOGAKcSpge5jItH3ERSjNcNpTkc2mQAr3udHsn0WdEFrOW6eZJE1TnZGEjBLiohghPsPL4_VgNbZP-h7lw9dfZ2qFn91FDomTfFEI9YEjZpd25G3Bo1fVFRgIhBFxtJs7C20yE4KdjfmbPy9I3NOFNBtKWHseBa4rDZ6CBN83Wf6RtzJ_71f4kO6Cita0LbBD8JjXOcj79-VVzlILLvKJXCNEfB4U8TCJA0QPTDnDvz_p2Ch55OtXoUp&placement=listing_profile&cs_user=unknown&cs_session=77b4383d4813780b3cf115e0902ddf20d2cf8970"
-5516 National Tpke,Louisville,US,us/ky/louisville/5516nationaltpke/-1721138121,38.151935,85.764873,Dairy Queen,dessert,40214,KY,http://www.dairyqueen.com
 777 S Main St,Cedar City,US,us/ut/cedarcity/777smainst/-1721138121,37.6639,-113.0666,Dairy Queen,dessert,84720,UT,http://www.dairyqueen.com
-14421 FM 2920 Rd,Tomball,US,us/tx/tomball/14421fm2920rd/-1721138121,30.089361,95.640494,Dairy Queen,dessert,77377,TX,http://www.dairyqueen.com
-6810 Louetta Rd,Spring,US,us/tx/spring/6810louettard/-1721138121,30.02514,95.51675,Dairy Queen,dessert,77379,TX,http://www.dairyqueen.com
 3850 Las Vegas Blvd S,Las Vegas,US,us/nv/lasvegas/3850lasvegasblvds/-1721138121,36.098907,-115.17556,Dairy Queen,dessert,89109,NV,"http://www.dairyqueen.com,http://dairyqueen.com"
-2611 State Hwy 361,Ingleside,US,us/tx/ingleside/2611statehwy361/-1721138121,27.88132467,97.20944041,Dairy Queen,dessert,78362-4200,TX,"http://www.dairyqueen.com,http://dairyqueen.com"
 16550 FM 620,Round Rock,US,us/tx/roundrock/16550fm620/1184039836,30.49701934,-97.72402623,Dairy Queen,dessert,78681,TX,http://mayfielddq.com
 3444 S Sherwood Forest Blvd,Baton Rouge,US,us/la/batonrouge/3444ssherwoodforestblvd/-1914135427,30.42186595,-91.05187654,Dairy Queen,dessert,70816,LA,http://www.dairyqueen.com
 200 Baychester Ave,Bronx,US,us/ny/bronx/200baychesterave/-1897515695,40.8640154,-73.82705072,Dairy Queen,dessert,10475,NY,"http://www.dairyqueen.com,http://dairyqueen.com"
@@ -9505,7 +9457,6 @@ Hwy 52 N,Albemarle,US,us/nc/albemarle/hwy52n/-891525969,35.38685466,-80.19366071
 1035 S Pendleton St,Easley,US,us/sc/easley/1035spendletonst/-891525969,34.81442,-82.60183,Subway,sandwich,29642,SC,http://www.subway.com
 545 Minot Ave,Auburn,US,us/me/auburn/545minotave/-891525969,44.08265,-70.24817,Subway,sandwich,4210,ME,"http://www.subway.com,http://subway.com"
 3390 Coachman Rd,Saint Paul,US,us/mn/saintpaul/3390coachmanrd/-891525969,44.833965,-93.179565,Subway,sandwich,55121,MN,http://www.subway.com
-Europlaza,Mormon Lake,US,us/az/mormonlake/europlaza/-891525969,17.98901939,-92.96509624,Subway,sandwich,86038,AZ,
 1400 E 53rd St,Chicago,US,us/il/chicago/1400e53rdst/-891525969,41.79951,-87.59123,Subway,sandwich,60615,IL,"http://subway.com/,http://www.subway.com"
 19911 Frederick Rd,Germantown,US,us/md/germantown/19911frederickrd/-891525969,39.18258848,-77.23805958,Subway,sandwich,20876,MD,
 15901 S Post Oak Rd,Houston,US,us/tx/houston/15901spostoakrd/-891525969,29.595324,-95.467043,Subway,sandwich,77053,TX,"http://subway.com/,http://www.subway.com"
@@ -9525,7 +9476,6 @@ Europlaza,Mormon Lake,US,us/az/mormonlake/europlaza/-891525969,17.98901939,-92.9
 17395 17th St,Tustin,US,us/ca/tustin/1739517thst/-891525969,33.76012,-117.82781,Subway,sandwich,92780,CA,"http://subway.com/,http://subway.com"
 3415 SE 192nd Ave,Vancouver,US,us/wa/vancouver/3415se192ndave/-891525969,45.596051,-122.478055,Subway,sandwich,98683,WA,
 103 N Iliff St,Medicine Lodge,US,us/ks/medicinelodge/103niliffst/-891525969,37.28123,-98.58707,Subway,sandwich,67104,KS,"http://www.subway.com,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PKGdfOHubWrvM0QwDCYwbOH2fdLi0dK5xArULcksCCbfR-WWAz9xD1AmGVAQZIom4U3n5R4DuRC8WJCtvJcNItEKoCSfzwapuGnmwGnHDpEGYXGjnN4u8zXqkiimSHFf4_dbqGRbVgNJdtBPmjhoOaEYZpzCQwcohqJFDNzaAK1UeGM5snu0_9SWAgWuMo75sW8LLfTVqRHroYmnz4bQArsD1DwGhwmdvkWtdMju6IRpUEbu31g-nJKK5wJuOQMv3Fw8OuYr-d3qHSAY3ZecPsBuXJUsEHN1cnbVUkD7JRkxHgbrwbNaAUjX0OHFMyZZzuSE9qyAbtkSI7cQpvKjWwerF7Tef298xClq6dvroxlxneMaPiqJg3eqQoDDtC4tFa99tNO5WARKqZ7vYK-mssp1Ra3GWh2sTVID0BDvgpuFzV7-7UbrU1BLZ5GZQnHrnbVuF7KPTQyOtzSVLAzeiSxkxEBaB9lI8773lQDLv-Gi&placement=listing_profile&cs_user=unknown&cs_session=e9563029108ce3243580cd0a6270e580ee32804c"
-Blvd El Bote 202,Mercer Island,US,us/wa/mercerisland/blvdelbote202/-891525969,22.77677077,-102.5977488,Subway,sandwich,98040,WA,https://subwaymexico.com.mx/
 515 Westheimer Rd,Houston,US,us/tx/houston/515westheimerrd/-891525969,29.74454,-95.38819,Subway,sandwich,77006,TX,http://subway.com
 2555 Inwood Rd,Dallas,US,us/tx/dallas/2555inwoodrd/-891525969,32.821872,-96.835889,Subway,sandwich,75235,TX,http://subway.com/
 1704 N Milwaukee Ave,Chicago,US,us/il/chicago/1704nmilwaukeeave/-891525969,41.91212,-87.68033,Subway,sandwich,60647,IL,"http://subway.com/,http://subway.com"
@@ -9904,7 +9854,6 @@ Riverside Dr,Grundy,US,us/va/grundy/riversidedr/1516016543,37.33271,-82.1748,Lon
 74 Maple St,Burlington,US,us/vt/burlington/74maplest/559008001,44.47368,-73.21676,Handy's Lunch,,5401,VT,"http://www.handyslunch.com,http://handyslunch.com"
 74 Turnpike Sq,Milford,US,us/ct/milford/74turnpikesq/-550505613,41.241616,-73.034191,Hometown Buffet,,6460,CT,"http://buffet.com,http://www.hometownbuffet.com"
 1299 Center Dr,Medford,US,us/or/medford/1299centerdr/-550505613,42.313215,-122.856834,Hometown Buffet,,97501,OR,"http://locations.buffet.com/or/medford/0725/,http://www.hometownbuffet.com"
-"Carrer de Sants, 236",Glassboro,US,"us/nj/glassboro/carrerdesants,236/1099155712",41.37552548,2.129481787,Hotdoks,,8028,NJ,
 900 Petro Rd,Rochelle,US,us/il/rochelle/900petrord/1996015504,41.93549,-89.0322,Hub City Express,,61068,IL,https://www.ta-petro.com
 3930 Louetta Rd,Spring,US,us/tx/spring/3930louettard/1871291746,30.074353,-95.411416,Hunam Garden,,77388,TX,
 629 S Broadway,Baltimore,US,us/md/baltimore/629sbroadway/101009156,39.28383,-76.59294,Hungry Andy's,,21231,MD,"http://hungryandysmd.com,http://www.hungryandys.com,http://hungryandysbaltimore.com"
@@ -9928,7 +9877,6 @@ Riverside Dr,Grundy,US,us/va/grundy/riversidedr/1516016543,37.33271,-82.1748,Lon
 200 S Huntington St,Syracuse,US,us/in/syracuse/200shuntingtonst/-1451926044,41.420929,-85.747599,Penguin Point,,46567,IN,
 13000 W Indian School Rd,Litchfield Park,US,us/az/litchfieldpark/13000windianschoolrd/-964070452,33.493296,-112.33883,Pick Up Stix,,85340,AZ,"http://www.pickupstix.com,http://www.pickupstix.com/"
 4020 W 95th St,Oak Lawn,US,us/il/oaklawn/4020w95thst/1124462444,41.72082069,-87.72321892,Portillo's,,60453,IL,http://www.portillos.com
-1 rue Georges Balanchine,Allen,US,us/tx/allen/1ruegeorgesbalanchine/107947501,48.83652837,2.374253869,Quick,,75013,TX,http://quick.fr
 2161 Hillsboro Blvd,Manchester,US,us/tn/manchester/2161hillsboroblvd/970421570,35.459637,-86.05776,Rafael's,,37355,TN,
 189 Main St,Saco,US,us/me/saco/189mainst/1080602757,43.49693,-70.4467,Rapid Ray's,,4072,ME,http://rapidrays.biz
 4100 Miller St,Bethany,US,us/mo/bethany/4100millerst/-934891622,40.2651,-94.0112,Redbox,,64424,MO,http://api.citygridmedia.com/content/places/v2/click?q=9YKflVKbY9NauPJdMy0B1gS1IhB4xv4EWw0zDoT-UWc_izWF3zs5PKGdfOHubWrvM0QwDCYwbOH2fdLi0dK5xArULcksCCbfR-WWAz9xD1AmGVAQZIom4U3n5R4DuRC8WJCtvJcNItEKoCSfzwapuGnmwGnHDpEGYXGjnN4u8zXqkiimSHFf4_dbqGRbVgNJwMvZhP0V4Clwj6DjbWt0eDQ1NJYNL3ExtcjWerAq9wjy2qx7XTb4cgPwO2WxQrvAghXqDf52_puwA2ixSWRufrU2da9QgT2AQ6ZRcbNg9IoEnd17Gf562ZfhtQIvnp8j0hyF2ufX7jhVGZ-hqFLgRqMCislC-Ie5d39shvlOPxNPMN6EGUTEWSEIFLrHtr-oIoAOFjs_BPz7i8Z6rACBw7zPk8f_wAKwfdbal_IrLJ0BlUrYOO5PXSLeYopIIfttv-cczg0sC08q_JTEVDDR48sdDqweSUpZRfBDBXjYbGN7WNVZWtxONJWxcQYsXgRcw-TduWSSF01nHgGxDdy9Tcwa-iTOKgvK&placement=listing_profile&cs_user=unknown&cs_session=b3095935e1b2a9c59bd7b4c376c75d88ebef0ad7

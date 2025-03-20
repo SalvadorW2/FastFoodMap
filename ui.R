@@ -37,14 +37,22 @@ create_ui = function(map_data) {
       ),
       
       mainPanel(
-        leafletOutput("map"),
-        width = 10,
-        style = "map_style"
+        fluidRow(
+          column(leafletOutput(outputId = "map"),
+                 width = 12,
+                 style = "map_style"
+          )),
+          
+        fluidRow(
+          column(plotOutput(outputId = "bar_graph"),
+                 width = 12,
+                 style = "map_style"
+          ))
+        )
+        
       )
       
     )
-    )
-    
   
   return (UI)
   

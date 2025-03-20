@@ -10,6 +10,32 @@ create_server = function(map_data) {
   
   Server = function(input, output, session) {
     
+    # Filtering graph data based on input
+    filtered_graph_data = shiny::reactive({
+      
+      if (input$state_filter == "All" & input$type_filter == "All") {
+        
+        return(map_data)
+        
+      } else if (input$state_filter == "All" & input$type_filter != "All") {
+        
+        map_data = subset(map_data, type == input$type_filter)
+        return(map_data)
+        
+      } else if (input$state_filter != "All" & input$type_filter == "All") {
+        
+        map_data = subset(map_data, province == input$state_filter)
+        return(map_data)
+        
+      } else {
+        
+        map_data = subset(map_data, province == input$state_filter & type == input$type_filter)
+        return(map_data)
+        
+      }
+      
+    })
+    
     # Filtering map data based on input
     filtered_map_data = shiny::reactive({
       
@@ -72,6 +98,14 @@ create_server = function(map_data) {
       
     })
     
+    output$bar_graph = renderPlot({
+      
+      ggplot(data = filtered_graph_data(), aes(x = factor(type), y = "Value", fill = color)) +
+        geom_bar(stat = "identity") +
+        labs(title = "Number of Restaurants by Type", x = "Type", y = "Length")
+      
+    })
+    
     output$legend = renderUI({
       legend_info = list("asian" = "Asian",
                          "breakfast" = "Breakfast",
@@ -109,16 +143,24 @@ create_server = function(map_data) {
                             ifelse(map_data$type == "Seafood", "blue",
                             ifelse(map_data$type == "Steak", "brown",
                             ifelse(map_data$type == "Variety", "purple", NA))))))))))))))))
+            
         ),
+        
         div(legend_info[[category]],
+            
             style = "display: inline-block; margin-bottom: 5px;"
+            
         ),
+        
         stye = "margin-right: 5px;"
+        
       )
+        
       })
 
       div(legendUI, style = "margin-top: 5px;")
-    })
+      
+      })
     
   }
   
