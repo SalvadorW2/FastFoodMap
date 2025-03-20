@@ -16,11 +16,12 @@ create_server = function(map_data) {
       ## State Filter
       if (input$state_filter == "All") {
         
-        return(map_data)
+        return(map_data %>% filter(map_data$type == input$type_filter))
         
       } else {
         
-        return(map_data[map_data$province == input$state_filter && map_data$type == input$type_filter, ])
+        # return(map_data[map_data$province == input$state_filter && map_data$type == input$type_filter, ])
+        return(map_data %>% filter(map_data$province == input$state_filter & map_data$type == input$type_filter))
         
       }
       
