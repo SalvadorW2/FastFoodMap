@@ -102,7 +102,7 @@ create_server = function(map_data) {
       
       ggplot(data = filtered_graph_data(), aes(x = factor(type), y = "Value", fill = color)) +
         geom_bar(stat = "identity") +
-        labs(title = "Number of Restaurants by Type", x = "Type", y = "Length")
+        labs(title = "Number of Restaurants by Type", x = "Type", y = "Number")
       
     })
     

@@ -6,9 +6,9 @@ create_ui = function(map_data) {
   
   UI = fluidPage(
     
-    # tags$head(
-    #   tags$link(rel = "stylesheet", type = "text/css", href = "restaurant_styles.css")
-    # ),
+    tags$head(
+      tags$link(rel = "stylesheet", type = "text/css", href = "restaurant_styles.css")
+    ),
     
     titlePanel("Restaurants"),
     
@@ -27,7 +27,7 @@ create_ui = function(map_data) {
         
         # Type selection
         selectInput(inputId = "type_filter",
-                    label = "Select Type(s):",
+                    label = "Select Type:",
                     choices = c("All", sort(unique(map_data$type))),
                     selected = "All",
                     multiple = FALSE),
@@ -38,15 +38,15 @@ create_ui = function(map_data) {
       
       mainPanel(
         fluidRow(
-          column(leafletOutput(outputId = "map"),
+          column(leafletOutput(outputId = "map", height = "50vh"),
                  width = 12,
-                 style = "map_style"
+                 # style = "map_style"
           )),
           
         fluidRow(
-          column(plotOutput(outputId = "bar_graph"),
+          column(plotOutput(outputId = "bar_graph", height = "40vh"),
                  width = 12,
-                 style = "map_style"
+                 # style = "graph_style"
           ))
         )
         
