@@ -17,9 +17,19 @@ create_server = function(map_data) {
         
         return(map_data)
         
+      } else if (input$state_filter == "All" & input$type_filter != "All") {
+        
+        map_data = subset(map_data, type == input$type_filter)
+        return(map_data)
+        
+      } else if (input$state_filter != "All" & input$type_filter == "All") {
+        
+        map_data = subset(map_data, province == input$state_filter)
+        return(map_data)
+        
       } else {
         
-        map_data = subset(map_data, province == input$state_filter | type == input$type_filter)
+        map_data = subset(map_data, province == input$state_filter & type == input$type_filter)
         return(map_data)
         
       }
@@ -57,7 +67,8 @@ create_server = function(map_data) {
                                          "<b>", "Address:", "</b>", address, "<br>",
                                          "<b>", "Postal Code: ", "</b>", postalCode
                                          ),
-                          clusterOptions = leaflet::markerClusterOptions())
+                          clusterOptions = leaflet::markerClusterOptions()
+                          )
       
     })
     
