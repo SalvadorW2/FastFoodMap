@@ -1,6 +1,7 @@
 ### Loading Packages ###
 
 library(shiny)
+library(leaflet)
 
 create_ui = function(map_data) {
   

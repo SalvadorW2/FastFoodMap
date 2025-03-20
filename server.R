@@ -63,7 +63,7 @@ create_server = function(map_data) {
     })
     
     # Configuring icons
-    icons = awesomeIcons(icon = "whatever",
+    icons = awesomeIcons(icon = "ios-close",
                          iconColor = "black",
                          library = "ion",
                          markerColor = map_data$color)
@@ -85,7 +85,7 @@ create_server = function(map_data) {
         # Adding markers
         addAwesomeMarkers(lng = ~longitude,
                           lat = ~latitude,
-                          icon = icons,
+                          icon = ~icons,
                           label = ~name,
                           group = "markers",
                           popup = ~paste("<b>", "Restaurant:", "</b>", name, "<br>",
@@ -104,61 +104,61 @@ create_server = function(map_data) {
         geom_bar(stat = "identity") +
         labs(title = "Number of Restaurants by Type", x = "Type", y = "Number") +
         scale_fill_manual(values = c("Asian" = "red",
-                                       "Breakfast" = "gold",
-                                       "Buffet" = "pink",
-                                       "Burger" = "tan",
-                                       "Chicken" = "white",
-                                       "Dessert" = "turquoise",
-                                       "European" = "black",
-                                       "Mexican" = "orange",
-                                       "Other" = "gray",
-                                       "Pizza" = "yellow",
-                                       "Regional" = "darkblue",
-                                       "Sandwich" = "green",
-                                       "Seafood" = "blue",
-                                       "Steak" = "brown",
-                                       "Variety" = "purple"))
+                                     "Breakfast" = "gold",
+                                     "Buffet" = "pink",
+                                     "Burger" = "tan",
+                                     "Chicken" = "white",
+                                     "Dessert" = "turquoise",
+                                     "European" = "black",
+                                     "Mexican" = "orange",
+                                     "Other" = "gray",
+                                     "Pizza" = "yellow",
+                                     "Regional" = "darkblue",
+                                     "Sandwich" = "green",
+                                     "Seafood" = "blue",
+                                     "Steak" = "brown",
+                                     "Variety" = "purple"))
       
     })
     
     
     output$legend = renderUI({
-      legend_info = list("asian" = "Asian",
-                         "breakfast" = "Breakfast",
-                         "buffet" = "Buffet",
-                         "burger" = "Burger",
-                         "chicken" = "Chicken",
-                         "dessert" = "Dessert",
-                         "european" = "European",
-                         "mexican" = "Mexican",
-                         "other" = "Other",
-                         "pizza" = "Pizza",
-                         "regional" = "Regional",
-                         "sandwich" = "Sandwich",
-                         "seafood" = "Seafood",
-                         "steak" = "Steak",
-                         "variety" = "Variety")
+      legend_info = list("Asian" = "Asian",
+                         "Breakfast" = "Breakfast",
+                         "Buffet" = "Buffet",
+                         "Burger" = "Burger",
+                         "Chicken" = "Chicken",
+                         "Dessert" = "Dessert",
+                         "European" = "European",
+                         "Mexican" = "Mexican",
+                         "Other" = "Other",
+                         "Pizza" = "Pizza",
+                         "Regional" = "Regional",
+                         "Sandwich" = "Sandwich",
+                         "Seafood" = "Seafood",
+                         "Steak" = "Steak",
+                         "Variety" = "Variety")
       
 
       legendUI = lapply(names(legend_info), function(category) {
         div(
           div(
             style = sprintf("background-color: %s; width: 10px; height: 10px; display: inline-block; margin-right: 5px;",
-                            ifelse(map_data$type == "Asian", "red",
-                            ifelse(map_data$type == "Breakfast", "gold",
-                            ifelse(map_data$type == "Buffet", "pink",
-                            ifelse(map_data$type == "Burger", "tan",
-                            ifelse(map_data$type == "Chicken", "white",
-                            ifelse(map_data$type == "Dessert", "turquoise",
-                            ifelse(map_data$type == "European", "black",
-                            ifelse(map_data$type == "Mexican", "orange",
-                            ifelse(map_data$type == "Other", "gray",
-                            ifelse(map_data$type == "Pizza", "yellow",
-                            ifelse(map_data$type == "Regional", "darkblue",
-                            ifelse(map_data$type == "Sandwich", "green",
-                            ifelse(map_data$type == "Seafood", "blue",
-                            ifelse(map_data$type == "Steak", "brown",
-                            ifelse(map_data$type == "Variety", "purple", NA))))))))))))))))
+                            ifelse(category == "Asian", "red",
+                            ifelse(category == "Breakfast", "gold",
+                            ifelse(category == "Buffet", "pink",
+                            ifelse(category == "Burger", "tan",
+                            ifelse(category == "Chicken", "white",
+                            ifelse(category == "Dessert", "turquoise",
+                            ifelse(category == "European", "black",
+                            ifelse(category == "Mexican", "orange",
+                            ifelse(category == "Other", "gray",
+                            ifelse(category == "Pizza", "yellow",
+                            ifelse(category == "Regional", "darkblue",
+                            ifelse(category == "Sandwich", "green",
+                            ifelse(category == "Seafood", "blue",
+                            ifelse(category == "Steak", "brown",
+                            ifelse(category == "Variety", "purple", NA))))))))))))))))
             
         ),
         

@@ -13,7 +13,7 @@ source("server.R")
 
 ### Application ###
 
-# Importing datas
+# Importing data
 data = read.csv("FastFoodRestaurants.csv")
 
 # Data Processing

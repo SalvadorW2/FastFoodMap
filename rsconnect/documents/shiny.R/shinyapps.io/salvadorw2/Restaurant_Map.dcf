@@ -1,0 +1,12 @@
+name: Restaurant_Map
+title: Restaurant_Map
+username: salvadorw2
+account: salvadorw2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14299674
+bundleId: 9977914
+url: https://salvadorw2.shinyapps.io/Restaurant_Map/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
