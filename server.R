@@ -100,11 +100,27 @@ create_server = function(map_data) {
     
     output$bar_graph = renderPlot({
       
-      ggplot(data = filtered_graph_data(), aes(x = factor(type), y = "Value", fill = color)) +
+      ggplot(data = filtered_graph_data(), aes(x = factor(type), y = "Value", fill = type)) +
         geom_bar(stat = "identity") +
-        labs(title = "Number of Restaurants by Type", x = "Type", y = "Number")
+        labs(title = "Number of Restaurants by Type", x = "Type", y = "Number") +
+        scale_fill_manual(values = c("Asian" = "red",
+                                       "Breakfast" = "gold",
+                                       "Buffet" = "pink",
+                                       "Burger" = "tan",
+                                       "Chicken" = "white",
+                                       "Dessert" = "turquoise",
+                                       "European" = "black",
+                                       "Mexican" = "orange",
+                                       "Other" = "gray",
+                                       "Pizza" = "yellow",
+                                       "Regional" = "darkblue",
+                                       "Sandwich" = "green",
+                                       "Seafood" = "blue",
+                                       "Steak" = "brown",
+                                       "Variety" = "purple"))
       
     })
+    
     
     output$legend = renderUI({
       legend_info = list("asian" = "Asian",
