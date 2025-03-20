@@ -17,16 +17,16 @@ source("server.R")
 data = read.csv("FastFoodRestaurants.csv")
 
 # Data Processing
-data = create_map_data(data)
+map_data = create_map_data(data)
 
 
 # Creating application components
 
 ## UI
-UI = create_ui(data)
+UI = create_ui(map_data)
 
 ## Server
-Server = create_server(data)
+Server = create_server(map_data)
 
 
 ### Running Application ###

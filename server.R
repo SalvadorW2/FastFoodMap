@@ -10,9 +10,10 @@ create_server = function(map_data) {
   
   Server = function(input, output, session) {
     
-    # Filtering map data based on state input
+    # Filtering map data based on input
     filtered_map_data = shiny::reactive({
       
+      ## State Filter
       if (input$state_filter == "All") {
         
         return(map_data)
@@ -20,6 +21,17 @@ create_server = function(map_data) {
       } else {
         
         return(map_data[map_data$province == input$state_filter, ])
+        
+      }
+      
+      ## Type Filter
+      if (input$type_filter == "All") {
+        
+        return(map_data)
+        
+      } else {
+        
+        return(map_data[map_data$type == input$type_filter, ])
         
       }
       
@@ -78,7 +90,7 @@ create_server = function(map_data) {
                          "variety" = "Variety")
       
 
-      legendUI = lapply(names(legend_info), function(type) {
+      legendUI = lapply(names(legend_info), function(category) {
         div(
           div(
             style = sprintf("background-color: %s; width: 10px; height: 10px; display: inline-block; margin-right: 5px;",
@@ -98,7 +110,7 @@ create_server = function(map_data) {
                             ifelse(map_data$type == "steak", "brown",
                             ifelse(map_data$type == "variety", "purple", NA))))))))))))))))
         ),
-        div(legend_info[[type]],
+        div(legend_info[[category]],
             style = "display: inline-block; margin-bottom: 5px;"
         ),
         stye = "margin-right: 5px;"
