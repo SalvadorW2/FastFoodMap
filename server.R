@@ -13,20 +13,15 @@ create_server = function(map_data) {
     # Filtering map data based on input
     filtered_map_data = shiny::reactive({
       
-      ## State Filter
-      if (input$state_filter == "All") {
+      if (input$state_filter == "All" & input$type_filter == "All") {
         
-        return(map_data %>% filter(map_data$type == input$type_filter))
+        return(map_data)
         
       } else {
         
-        # return(map_data[map_data$province == input$state_filter && map_data$type == input$type_filter, ])
         return(map_data %>% filter(map_data$province == input$state_filter & map_data$type == input$type_filter))
         
       }
-      
-      ## Type Filter
-      # map_data[map_data$type == input$type_filter, ]
       
     })
     
@@ -87,21 +82,21 @@ create_server = function(map_data) {
         div(
           div(
             style = sprintf("background-color: %s; width: 10px; height: 10px; display: inline-block; margin-right: 5px;",
-                            ifelse(map_data$type == "asian", "red",
-                            ifelse(map_data$type == "breakfast", "gold",
-                            ifelse(map_data$type == "buffet", "pink",
-                            ifelse(map_data$type == "burger", "tan",
-                            ifelse(map_data$type == "chicken", "white",
-                            ifelse(map_data$type == "dessert", "turquoise",
-                            ifelse(map_data$type == "european", "black",
-                            ifelse(map_data$type == "mexican", "orange",
-                            ifelse(map_data$type == "other", "gray",
-                            ifelse(map_data$type == "pizza", "yellow",
-                            ifelse(map_data$type == "regional", "darkblue",
-                            ifelse(map_data$type == "sandwich", "green",
-                            ifelse(map_data$type == "seafood", "blue",
-                            ifelse(map_data$type == "steak", "brown",
-                            ifelse(map_data$type == "variety", "purple", NA))))))))))))))))
+                            ifelse(map_data$type == "Asian", "red",
+                            ifelse(map_data$type == "Breakfast", "gold",
+                            ifelse(map_data$type == "Buffet", "pink",
+                            ifelse(map_data$type == "Burger", "tan",
+                            ifelse(map_data$type == "Chicken", "white",
+                            ifelse(map_data$type == "Dessert", "turquoise",
+                            ifelse(map_data$type == "European", "black",
+                            ifelse(map_data$type == "Mexican", "orange",
+                            ifelse(map_data$type == "Other", "gray",
+                            ifelse(map_data$type == "Pizza", "yellow",
+                            ifelse(map_data$type == "Regional", "darkblue",
+                            ifelse(map_data$type == "Sandwich", "green",
+                            ifelse(map_data$type == "Seafood", "blue",
+                            ifelse(map_data$type == "Steak", "brown",
+                            ifelse(map_data$type == "Variety", "purple", NA))))))))))))))))
         ),
         div(legend_info[[category]],
             style = "display: inline-block; margin-bottom: 5px;"
