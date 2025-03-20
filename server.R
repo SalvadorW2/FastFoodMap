@@ -19,7 +19,8 @@ create_server = function(map_data) {
         
       } else {
         
-        return(map_data %>% filter(map_data$province == input$state_filter & map_data$type == input$type_filter))
+        map_data = subset(map_data, province == input$state_filter | type == input$type_filter)
+        return(map_data)
         
       }
       
