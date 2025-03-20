@@ -27,7 +27,21 @@ create_ui = function(map_data) {
         # Type selection
         checkboxGroupInput(inputId = "type_filter",
                            label = "Select Type(s):",
-                           choices = sort(unique(map_data$type))),
+                           choices = c("Asian" = "asian",
+                                       "Breakfast" = "breakfast",
+                                       "Buffet" = "buffet",
+                                       "Burger" = "burger",
+                                       "Chicken" = "chicken",
+                                       "Dessert" = "dessert",
+                                       "European" = "European",
+                                       "Mexican" = "mexican",
+                                       "Other" = "other",
+                                       "Pizza" = "pizza",
+                                       "Regional" = "regional",
+                                       "Sandwich" = "sandwich",
+                                       "Seafood" = "seafood",
+                                       "Steak" = "steak",
+                                       "Variety" = "variety")),
           
             h4("Type"),
             uiOutput("legend")

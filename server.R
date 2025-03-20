@@ -20,20 +20,12 @@ create_server = function(map_data) {
         
       } else {
         
-        return(map_data[map_data$province == input$state_filter, ])
+        return(map_data[map_data$province == input$state_filter && map_data$type == input$type_filter, ])
         
       }
       
       ## Type Filter
-      if (input$type_filter == "All") {
-        
-        return(map_data)
-        
-      } else {
-        
-        return(map_data[map_data$type == input$type_filter, ])
-        
-      }
+      # map_data[map_data$type == input$type_filter, ]
       
     })
     
@@ -82,7 +74,7 @@ create_server = function(map_data) {
                          "european" = "European",
                          "mexican" = "Mexican",
                          "other" = "Other",
-                         "pizza" = "Yellow",
+                         "pizza" = "Pizza",
                          "regional" = "Regional",
                          "sandwich" = "Sandwich",
                          "seafood" = "Seafood",
